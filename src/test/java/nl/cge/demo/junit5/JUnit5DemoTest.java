@@ -12,4 +12,5 @@ public class JUnit5DemoTest {
         assertTrue(true);
         assertEquals("een", "een");
     }
+
 }
